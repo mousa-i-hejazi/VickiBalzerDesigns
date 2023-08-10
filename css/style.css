@@ -1,0 +1,250 @@
+
+.navbar .container-fluid .navbar-brand{
+    padding-left: 250px;
+    color: #D99162;
+    font-weight: bold;
+}
+
+.navbar .container-fluid .collapse .navbar-nav {
+    padding-right: 100px;
+    font-size: 14px;
+    padding-top: 9px;
+    font-weight: bold;
+    
+}
+.navbar .container-fluid .collapse .navbar-nav .nav-item{
+   
+padding-left: 40px;
+}
+ button{
+  
+    background-color: #D99162;
+    border:0;
+    color: white;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link{
+    color: #D99162;
+}
+
+
+.hero-section{
+    background-color: #454141;
+    width: 100%;
+    height: 600px;
+}
+
+.ro h1{
+    color: white;
+    font-size: 60px;
+    padding-top: 60px;
+}
+
+.ro img{
+    width: 500px;
+    height: 500px;
+    padding-top: 50px;
+}
+
+.content{
+background-color: #FFF9ED;
+width: 100%;
+height: 550px;
+padding-top: 40px;
+}
+
+.content .im{
+    width: 50%;
+}
+
+.content .p1{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 28px;
+}
+
+.content .p2{
+    font-size: 16px;
+    padding-right: 362px;
+    font-weight: bold;
+    
+}
+.butt{
+    background-color: #D99162  ;
+   font-size: 25px;
+    color: white;
+    padding: 30px 30px 0px 30px ;
+    
+}
+.content .p3{
+    padding-left: 370px;
+    margin-bottom: 100px;
+    font-weight: bold;
+    
+}
+
+.content1{
+    background-color: #CCC7BE;
+    padding-top: 90px;
+    height: 700px;
+
+}
+
+.content1 .card .card-body{
+    background-color: #CCC7BE;
+    font-size: 18px;
+    
+}
+
+.content1 .card{
+    border: 0px;
+   
+}
+
+.content1 button{
+    margin-left: 120px;
+    margin-top: 50px;
+    
+}
+
+.content h3{
+    font-size: 40px;
+    position: absolute;
+    padding-top: 140px;
+    padding-left: 100px;
+    color: #454141;
+
+}
+
+
+.content2{
+    padding-top: 50px;
+   
+}
+
+.content2 .im1{
+width: 90%;
+height: 300px;
+padding-left: 20px;
+}
+
+.content2 .im2{
+    width: 90%;
+    height: 400px;
+}
+
+    .content2 .im3{
+        width: 100%;
+        height: 250px;
+        padding-right: 40px;
+ }
+
+        .content2 .im4{
+            width: 100%;
+            height: 300px;
+         
+
+ }
+
+
+ .content2 button{
+    margin-top: 40px;
+ }
+
+ .content3{
+    background-color: #D99162;
+    width: 100%;
+    height: 450px;
+    margin-top: 50px;
+ }
+
+ .content3 .p4{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.content3 h5{
+    padding-top: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.content4{
+    background-color: #454141;
+    width: 100%;
+    height: 400px;
+}
+
+
+
+.content3 img{
+    width: 45%;
+    height: 400px;
+    margin-left: 370px;
+    position: absolute;
+    padding-top: 50px;
+}
+
+.content3 h3{
+    color: white;
+    padding-top: 375px;
+    position: absolute;
+    padding-left: 450px;
+}
+
+
+.content4 button{
+   background-color: #707070;
+   margin-top: 320px;
+   margin-left: 450px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.contant5{
+    background-color: #FFF9ED;
+    width: 100%;
+    
+    
+}
+
+.content4-1 .con img{
+    padding-top: 50px;
+    
+} 
+
+
+.content4-1 .con h4{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 110px;
+}
+
+.content4-1 .con{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.con5 .footer{
+    background-color: #D99162;
+    width: 100%;
+    height:130px;
+    
+}
+
+.footer .navbar .container-fluid .navbar-brand{
+    color: #454141;
+}
+
+.footer .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link{
+    color: white;
+}
